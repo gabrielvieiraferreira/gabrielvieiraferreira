@@ -1,12 +1,16 @@
-### Olá, eu sou o Gabriel Vieira
 
-- Cursando: Análise e Desenvolvimento de Sistemas 3/5
-- Em busca de oportunidades de Estágio 
+
+
 
 <div>
   <a href="https://github.com/gabrielvieiraferreira">    
     
 </div>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0203ED&size=35&center=true&vCenter=true&width=1000&lines=Oi,+Meu+nome+é+Gabriel+Vieira;Seja+bem-vindo!)](https://git.io/typing-svg)
+
+- Cursando: Análise e Desenvolvimento de Sistemas 3/5
+- Em busca de oportunidades de Estágio 
 
   ##
   
