@@ -1,6 +1,7 @@
 ### Olá, eu sou o Gabriel Vieira
 
-- Cursando: Análise e Desenvolvimento de Sistemas 
+- Cursando: Análise e Desenvolvimento de Sistemas 3/5
+- Em busca de oportunidades de Estágio 
 
 <div>
   <a href="https://github.com/gabrielvieiraferreira">    
