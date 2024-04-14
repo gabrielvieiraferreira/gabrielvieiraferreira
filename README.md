@@ -1,6 +1,6 @@
 ### Olá, eu sou o Gabriel Vieira
 
-- 🌱 I’m currently learning Python
+- Cursando: Análise e Desenvolvimento de Sistemas 
 
 <div>
   <a href="https://github.com/gabrielvieiraferreira">    
@@ -25,6 +25,6 @@
  <div>
   <h4>Contact:</h4>
   <a href="https://https://www.linkedin.com/in/gabriel-ferreira-0896a1293" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   <a href="">
+   <a href="gabrielvieiraferreira2018@gmail.com" target="_blank"><img loanding="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>
  
